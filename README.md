@@ -1,2 +1,2 @@
 # Repo för labb 1 - Datateknik
-### Gabriel Ivarsson, Noah Åkesson, Patrik Karlsson
+### Gabriel Ivarsson, Noah Håkansson, Patrik Karlsson
